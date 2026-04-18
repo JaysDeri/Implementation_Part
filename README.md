@@ -2,7 +2,7 @@
 
 ## Implementation Part
 
-## 📌 Overview
+## Overview
 
 This repository contains the **implementation part** of the research study:
 
@@ -12,7 +12,7 @@ The goal of this implementation is to experimentally evaluate how different **da
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Apply multiple preprocessing techniques to the dataset
 * Train and compare several classification models
@@ -21,7 +21,7 @@ The goal of this implementation is to experimentally evaluate how different **da
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```id="cbf3lo"
 Implementation_Part/
@@ -32,7 +32,7 @@ Implementation_Part/
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 * Python
 * Pandas, NumPy
@@ -41,7 +41,7 @@ Implementation_Part/
 
 ---
 
-## 🔍 Preprocessing Techniques Implemented
+## Preprocessing Techniques Implemented
 
 This implementation covers the key preprocessing categories described in the research:
 
@@ -70,7 +70,7 @@ This implementation covers the key preprocessing categories described in the res
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The following classifiers were implemented and evaluated:
 
@@ -83,7 +83,7 @@ The following classifiers were implemented and evaluated:
 
 ---
 
-## ⚡ Experimental Setup
+## Experimental Setup
 
 * Multiple preprocessing pipelines were created
 * Models were trained using:
@@ -95,7 +95,7 @@ The following classifiers were implemented and evaluated:
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 The models were evaluated using:
 
@@ -112,7 +112,7 @@ Additional analysis includes:
 
 ---
 
-## 🏆 Key Findings (from implementation)
+## Key Findings (from implementation)
 
 * Preprocessing significantly affects model performance
 * Tree-based models are less sensitive to scaling
@@ -121,7 +121,7 @@ Additional analysis includes:
 
 ---
 
-## 👩‍💻 Authors
+## Authors
 
 * Iliyas Aruzhan
 * Zhurymbay Akbike
